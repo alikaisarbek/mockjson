@@ -1,9 +1,9 @@
 {
 "Post":[
-{"id":"1","email":Gamer@gmail.com","password":"Asdfgh124!"},
-{"id":"2","email":TheIll-informed@gmail.com","password":"5F[~D:sj"},
-{"id":"3","email":ItPathetic@mail.ru","password":"j;t8WrZi"},
-{"id":"4","email":ppCharming@gmail.com","password":"?kH8<g;-"},
+{"id":"1","email":"Gamer@gmail.com","password":"Asdfgh124!"},
+{"id":"2","email":"TheIll-informed@gmail.com","password":"5F[~D:sj"},
+{"id":"3","email":"ItPathetic@mail.ru","password":"j;t8WrZi"},
+{"id":"4","email":"ppCharming@gmail.com","password":"?kH8<g;-"},
 {"id":"5","email":"AsFierce@mail.ru","password":"w8_&rMb["},
 {"id":"6","email":"ppCharming@mail.ru","password":"gMtF$27aA@"},
 {"id":"7","email":"LUtopian@gmail.com","password":"e<c|nY6b~Z"},
@@ -12,16 +12,16 @@
 {"id":"10","email":"Girlee@gmail.com","password":"W8R=RveTm="}
 ],
 "Hotel":[
-{"id":"1","name":"Primal Aurora Hotel","cost":"50$ for day",rating":"6 out of 10"},
-{"id":"2","name":"Triple Galaxy Hotel","cost":"60$ for day",rating":"9 out of 10"},
-{"id":"3","name":"Dual Coast Hotel & Spa","cost":"35$ for day",rating":"8 out of 10"},
-{"id":"4","name":"Smile Resort","cost":"64.99$ for day",rating":"5 out of 10"},
-{"id":"5","name":"Paradise","cost":"33$ for day",rating":"8 out of 10"},
-{"id":"6","name":"Spectrum Motel","cost":"40$ for day",rating":"9 out of 10"},
-{"id":"7","name":"Olive Cosmos Hotel","cost":"80$ for day",rating":"10 out of 10"},
-{"id":"8","name":"Oceanside Hotel","cost":"45$ for day",rating":"3 out of 10"},
-{"id":"9","name":"Stellar Resort","cost":"20$ for day",rating":"7 out of 10"},
-{"id":"10","name":"Rixos","cost":"50$ for day",rating":"10 out of 10"}
+{"id":"1","name":"Primal Aurora Hotel","cost":"50$ for day","rating":"6 out of 10"},
+{"id":"2","name":"Triple Galaxy Hotel","cost":"60$ for day","rating":"9 out of 10"},
+{"id":"3","name":"Dual Coast Hotel & Spa","cost":"35$ for day","rating":"8 out of 10"},
+{"id":"4","name":"Smile Resort","cost":"64.99$ for day","rating":"5 out of 10"},
+{"id":"5","name":"Paradise","cost":"33$ for day","rating":"8 out of 10"},
+{"id":"6","name":"Spectrum Motel","cost":"40$ for day","rating":"9 out of 10"},
+{"id":"7","name":"Olive Cosmos Hotel","cost":"80$ for day","rating":"10 out of 10"},
+{"id":"8","name":"Oceanside Hotel","cost":"45$ for day","rating":"3 out of 10"},
+{"id":"9","name":"Stellar Resort","cost":"20$ for day","rating":"7 out of 10"},
+{"id":"10","name":"Rixos","cost":"50$ for day","rating":"10 out of 10"}
 ],
 "Flights":[
 {"id":"1","Destination":"Melbourne-Pyongyang","Timing":"11:20:00 p.m."},
