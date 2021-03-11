@@ -48,15 +48,15 @@
 { "id": "10", "name": "Cabify", "price": "2000 tenge", "number": "8-7232-89-28-90", "waiting time": "10 minutes" }
 ],
 "imgs": [
-{ "id": "1", "name": "photo of yandextaxi", "url": "https://via.placeholder.com/600/d32776" }, 
-{ "id": "2", "name": "photo of indriver", "url": "https://via.placeholder.com/600/d32776" }, 
-{ "id": "3", "name": "photo of aparu", "url": "https://via.placeholder.com/600/d32776" }, 
-{ "id": "4", "name": "photo of laim", "url": "https://via.placeholder.com/600/d32776" }, 
-{ "id": "5", "name": "photo of uber", "url": "https://via.placeholder.com/600/d32776" },
-{ "id": "6", "name": "photo of ola", "url": "https://via.placeholder.com/600/d32776" }, 
-{ "id": "7", "name": "photo of grab", "url": "https://via.placeholder.com/600/d32776" }, 
-{ "id": "8", "name": "photo of didi", "url": "https://via.placeholder.com/600/d32776" }, 
-{ "id": "9", "name": "photo of gett", "url": "https://via.placeholder.com/600/d32776" }, 
-{ "id": "10", "name": "photo of cabify", "url": "https://via.placeholder.com/600/d32776" }
+{ "id": "1", "name": "photo of yandextaxi", "url": "https://i1.wp.com/xn-----8kcodac0apcdzbl5cdcm2a7t.xn--p1ai/wp-content/uploads/2018/02/Astana.jpg" }, 
+{ "id": "2", "name": "photo of indriver", "url":"uhttp://retail-loyalty.org/upload/iblock/7bc/Snimok.JPG" }, 
+{ "id": "3", "name": "photo of aparu", "url":"https://hh.kz/employer-logo/2837736.jpeg" }, 
+{ "id": "4", "name": "photo of laim", "url":"uhttps://lh3.googleusercontent.com/proxy/xzMNM_RRzVtxXnXYi4OPIi_j-YuX-O9ubPu23HhUHiPcTjq_6XgHCAXI8A4JsgomVChnBz946B1L1Wr-Mv0XMhGb96qtqNI3dvz5qS7Ejk3t9UOoHbUNGx_56vM1fLo8nXhPC36ZQg" }, 
+{ "id": "5", "name": "photo of uber", "url":"https://idominicana.com/wp-content/uploads/2020/08/Uber.jpg" },
+{ "id": "6", "name": "photo of ola", "url":"https://static.toiimg.com/thumb/msid-66212215,width-1070,height-580,imgsize-1320874,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" }, 
+{ "id": "7", "name": "photo of grab", "url": "https://www.financebrokerage.com/wp-content/uploads/2019/03/Grab-Taxi-Now-at-14B-Upon-Settling-1.46B-from-Vision-Fund-Finance-Brokerage.jpg" }, 
+{ "id": "8", "name": "photo of didi", "url": "https://china911.ru/wp-content/uploads/2018/10/didi-taxi-china-0.jpg" }, 
+{ "id": "9", "name": "photo of gett", "url": "https://kakzarabativat.ru/wp-content/uploads/2017/02/Kak-podklyuchitsya-k-Gett-taksi-dlya-voditelej.jpg" }, 
+{ "id": "10", "name": "photo of cabify", "url": "https://fleetpeople.es/wp-content/uploads/2019/04/IMG_2814-1067x607.jpg" }
 ]
 }
